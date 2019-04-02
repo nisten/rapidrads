@@ -10,8 +10,8 @@ const SecondPage = () => (
   <Layout>
     <DwvComponent />
     <SEO title="Page two" />
-    <h1>Hi from the second page</h1>
-    <p>Welcome to page 2</p>
+    <h3>Drag and drop radiology scan above</h3>
+    <p>RapidRads</p>
     
     <Link to="/">Go back to the homepage</Link>
   </Layout>
