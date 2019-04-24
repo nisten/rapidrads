@@ -1,0 +1,14 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "rapid-rads-20190402111954-authRole",
+            "UnauthRoleArn": "arn:aws:iam::612177115370:role/rapid-rads-20190402111954-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::612177115370:role/rapid-rads-20190402111954-authRole",
+            "Region": "us-east-2",
+            "DeploymentBucketName": "rapid-rads-20190402111954-deployment",
+            "UnauthRoleName": "rapid-rads-20190402111954-unauthRole",
+            "StackName": "rapid-rads-20190402111954",
+            "StackId": "arn:aws:cloudformation:us-east-2:612177115370:stack/rapid-rads-20190402111954/c49c5c70-555a-11e9-b99c-0a768148c3d2"
+        }
+    }
+}
