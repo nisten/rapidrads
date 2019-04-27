@@ -4,6 +4,8 @@ import { Link } from "gatsby"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 import DwvComponent from './DwvComponent'
+import ComplexList from '../components/list'
+import NestedList from '../components/nest'
 
 const SecondPage = () => (
   
@@ -12,6 +14,7 @@ const SecondPage = () => (
     <SEO title="Page two" />
     <h3>Drag and drop radiology scan above</h3>
     <p>RapidRads</p>
+    <NestedList/>
     
     <Link to="/">Go back to the homepage</Link>
   </Layout>
