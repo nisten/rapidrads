@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `Rapid Rads`,
+    title: `AcuityAds`,
     description: `Radiology Dicom Viewer in React`,
     author:'nisten and cmejo'
   },
